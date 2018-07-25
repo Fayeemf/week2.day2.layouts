@@ -1,0 +1,28 @@
+
+body{
+    margin: 0;
+    background-image: url("../../assets/shoes.jpg"); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
+    background: 
+    linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), 
+    url(../../assets/shoes.jpg);
+    margin:0;
+}
+img{
+    height: 72px;
+    justify-content: center;
+    align-content: center;
+    font-size: 45px;
+    padding-left: 180px;
+    position: relative;
+    bottom: -250px;
+    right: -70px;
+}
+h3{
+    position: relative;
+    bottom: -200px;
+ 
+}
